@@ -1,4 +1,7 @@
 # Retail Fashion
+
 Fashion MINST Data Set
+
 Generating Images
-GAN's
+
+Using Generative Adversal Neural Networks (GAN's)
