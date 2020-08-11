@@ -1,3 +1,4 @@
-# Retail_Fashion
+# Retail Fashion
 Fashion MINST Data Set
-GAN for generating Images
+Generating Images
+GAN's
